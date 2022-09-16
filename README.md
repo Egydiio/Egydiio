@@ -1,5 +1,5 @@
 Meu nome é Joao Victor Santos Egydio, tenho 20 anos. 
-Estou cursando Sistema de informação na Una Barreiro.
+Estou cursando Sistema de informação na PUC Barreiro.
 Atualmente trabalho como Programador FullStack Trainee.
 
 <!---
