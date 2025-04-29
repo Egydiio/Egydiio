@@ -1,6 +1,8 @@
-Meu nome é Joao Victor Santos Egydio, tenho 21 anos. 
-Formado em Técnico em Informática para Internet e me graduando em Sistemas da Informação, e, além da faculdade, faço cursos online para me aprofundar cada vez mais na minha área.
-Possuo experiência com as tecnologias PHP/Laravel, VUE/JS, jQUERY, HTML, CSS, já tendo atuado um pouco mais de um ano com todas elas.
+Meu nome é Joao Victor Santos Egydio, tenho 23 anos. 
+
+Com mais de três anos de experiência em desenvolvimento web, atuo com JavaScript, Vue.js, PHP, Laravel, MySQL e outras tecnologias modernas. Minha trajetória inclui experiência como Técnico de Suporte em TI e como Desenvolvedor Full Stack, onde aprimorei habilidades em arquitetura de software, performance de aplicações e boas práticas de desenvolvimento.
+
+Gosto de criar soluções eficientes e escaláveis, sempre buscando inovação e aprimoramento contínuo. Vamos conectar e trocar ideias sobre tecnologia!
 
 <!---
 Egydiio/Egydiio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
