@@ -1,10 +1,14 @@
-Meu nome é Joao Victor Santos Egydio, tenho 23 anos. 
+# 💫 About Me:
+Meu nome é Joao Victor Santos Egydio, tenho 23 anos.<br><br>Com mais de três anos de experiência em desenvolvimento web, atuo com JavaScript, Vue.js, PHP, Laravel, MySQL e outras tecnologias modernas. Minha trajetória inclui experiência como Técnico de Suporte em TI e como Desenvolvedor Full Stack, onde aprimorei habilidades em arquitetura de software, performance de aplicações e boas práticas de desenvolvimento.<br><br>Gosto de criar soluções eficientes e escaláveis, sempre buscando inovação e aprimoramento contínuo. Vamos conectar e trocar ideias sobre tecnologia!
 
-Com mais de três anos de experiência em desenvolvimento web, atuo com JavaScript, Vue.js, PHP, Laravel, MySQL e outras tecnologias modernas. Minha trajetória inclui experiência como Técnico de Suporte em TI e como Desenvolvedor Full Stack, onde aprimorei habilidades em arquitetura de software, performance de aplicações e boas práticas de desenvolvimento.
 
-Gosto de criar soluções eficientes e escaláveis, sempre buscando inovação e aprimoramento contínuo. Vamos conectar e trocar ideias sobre tecnologia!
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/joaoegydio/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:egydiio@hotmail.com) 
 
-<!---
-Egydiio/Egydiio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 💻 Tech Stack:
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Egydiio&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
