@@ -1,5 +1,5 @@
 # 📝 About Me:
-Meu nome é Joao Victor Santos Egydio, tenho 24 anos.<br><br>Com mais de três anos de experiência em desenvolvimento web, atuo com JavaScript, Vue.js, PHP, Laravel, MySQL e outras tecnologias modernas. Minha trajetória inclui experiência como Técnico de Suporte em TI e como Desenvolvedor Full Stack, onde aprimorei habilidades em arquitetura de software, performance de aplicações e boas práticas de desenvolvimento.<br><br>Gosto de criar soluções eficientes e escaláveis, sempre buscando inovação e aprimoramento contínuo. Vamos conectar e trocar ideias sobre tecnologia!
+Meu nome é Joao Victor Santos Egydio, tenho 24 anos.<br><br>Full Stack Developer com 3+ anos de experiência construindo sistemas web robustos. Atuo com PHP, Lumen e Laravel no backend, e React.js, Vue.js e AngularJS no frontend. Experiência com ERPs, microsserviços e APIs REST em produção. Graduando em Sistemas de Informação pela PUC Minas.
 
 
 ## 🌐 Socials:
